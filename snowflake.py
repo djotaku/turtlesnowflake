@@ -3,6 +3,7 @@
 import turtle
 
 slow_poke = turtle.Turtle()
+slow_poke.color("forest green")
 for i in range(10):
     for i in range(2):
         slow_poke.forward(100)
